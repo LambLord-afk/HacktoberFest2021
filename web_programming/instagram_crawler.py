@@ -138,3 +138,18 @@ if __name__ == "__main__":
     print(f"{instagram_user.profile_picture_url = }")
     print(f"{instagram_user.is_verified = }")
     print(f"{instagram_user.is_private = }")
+    
+# if __name__ == "__main__":
+#     import doctest
+
+#     doctest.testmod()
+#     instagram_user = InstagramUser("github")
+#     print(instagram_user)
+#     print(f"{instagram_user.number_of_posts = }")
+#     print(f"{instagram_user.number_of_followers = }")
+#     print(f"{instagram_user.number_of_followings = }")
+#     print(f"{instagram_user.email = }")
+#     print(f"{instagram_user.website = }")
+#     print(f"{instagram_user.profile_picture_url = }")
+#     print(f"{instagram_user.is_verified = }")
+#     print(f"{instagram_user.is_private = }")
