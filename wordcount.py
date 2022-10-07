@@ -7,4 +7,4 @@ for item in S:
     else:
         D[item] = 1
 
-print(D)
+print(D) 
